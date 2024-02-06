@@ -1,1 +1,1 @@
-web: python MultiTools ExGamer.py
+web: python ExGamer.py
